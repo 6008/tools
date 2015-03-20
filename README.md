@@ -18,3 +18,7 @@ Each line of input file starts as this:
 "chr18:1000-100000"
 
 The output R code depends on other R data.
+
+## SitesFinder.java
+
+filter out special sites with specified ratio of non-reference.
