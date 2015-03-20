@@ -23,6 +23,14 @@ The output R code depends on other R data.
 
 Filter out special sites with specified ratio of non-reference.
 
+Input selected (sorted) pileup file
+
+Output site list file
+
 ## SimpleFilter.java
 
 Filter out special sites based on pilup files and site list files.
+
+Input orgin pileup files and site list files
+
+Output selected pileup files (and use linux command to sort)
