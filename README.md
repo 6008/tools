@@ -47,3 +47,12 @@ Ooutput result file
 
 Have some problem. Replace by BuildData.java and other R scripts.
 
+
+## alldataprocess.R
+
+Continue the work of BuildData.java. Produce fina_data datatable.
+
+## emDebug.R
+
+Test the process of GeMS's EM algorithm. Depend on em.R which is the core functions of GeMS.
+
