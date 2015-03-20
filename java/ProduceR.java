@@ -16,7 +16,7 @@ public class ProduceR {
 		BufferedReader high_br = new BufferedReader(new FileReader(new File(input_high + String.valueOf(num))));
 		
 		PrintWriter pw = new PrintWriter(new FileWriter(new File(output + String.valueOf(num) + ".R")));
-		
+	
 		String[] softs = new String[6];
 		softs[0] = "true";
 		softs[1] = "cpp";
