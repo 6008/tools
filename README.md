@@ -21,4 +21,8 @@ The output R code depends on other R data.
 
 ## SitesFinder.java
 
-filter out special sites with specified ratio of non-reference.
+Filter out special sites with specified ratio of non-reference.
+
+## SimpleFilter.java
+
+Filter out special sites based on pilup files and site list files.
