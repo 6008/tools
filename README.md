@@ -56,3 +56,11 @@ Continue the work of BuildData.java. Produce fina_data datatable.
 
 Test the process of GeMS's EM algorithm. Depend on em.R which is the core functions of GeMS.
 
+## getForm.R
+
+Calculate TPR and HM according to quntile and property(mq, bq, coverage) for each chromosome
+
+# getFormGiab.R getFormupenn.R
+
+Calculate  TPR and HM according to quntile and property(mq, bq, coverage) for GiaB(upenn) dataset
+
